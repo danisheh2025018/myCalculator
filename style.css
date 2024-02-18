@@ -1,0 +1,191 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.mother{
+    margin-top: 5%;
+    margin-left:15% ;
+    margin-right:15% ;
+    margin-bottom:5% ;
+    width: 300px;
+    height: 500px;
+    background-color: black;
+    border-radius: 15px;
+    
+}
+.hh{
+    padding-left: 28px;
+    padding-top: 160px;
+    padding-right: 60px;
+}
+.son1{
+    display: flex;
+    gap: 5px;
+    
+}
+.son1 button{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(113, 116, 117);
+    border: none;
+}
+.son1 button:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;
+}
+.son2{
+    display: flex;
+    gap: 8px;
+}
+.son2 button{
+    width: 50px;
+    height:50px;
+    border-radius: 5px;
+    background-color:blue;
+    border: none;
+    color: white;
+}
+.son2 button:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;
+}
+.son3{
+    display: flex;
+    gap: 5px;
+    margin-top: 8px;
+}
+.son3 button{
+   width: 50px;
+   height: 50px;
+   background-color: rgb(58, 57, 57);
+   border: none;
+   border-radius: 5px;
+   color: white;
+
+}
+.son3 button:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;
+}
+.son4{
+    display: flex;
+}
+.son4 button{
+     width: 50px;
+   height: 50px; 
+   border-radius: 5px;
+   background-color: blue;
+   border: none;
+   color: white;
+}
+.son4 button:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;
+}
+.son5{
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+}
+.son5 button{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(58, 57, 57);
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.son5 button:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;
+}
+.son6{
+    display: flex;
+}
+.son6 button{
+    width: 50px;
+    height: 50px; 
+    border-radius: 5px;
+    background-color: blue;
+    border: none;
+    color: white;
+}
+.son6 button:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;
+}
+.son7{
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+}
+.son7 button{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(58, 57, 57);
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.son7 button:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;
+}
+.son8{
+    display: flex;
+}
+.son8 button{
+    width: 50px;
+    height: 50px; 
+    border-radius: 5px;
+    border: none;
+    background-color: blue;
+    color: white;
+}
+.son8 button:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;
+}
+.son9{
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+}
+.son9 button{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(58, 57, 57);
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.son9 button:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan,0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;
+}
+.son10{
+    display: flex;
+}
+.son10 button{
+    width: 105px;
+    height: 50px; 
+    border-radius: 5px;
+    background-color: rgb(135, 135, 138);
+    border: none;
+    color: black;
+}
+.son10 button:hover{
+    box-shadow: 0 0 5px cyan,
+     0 0 25px cyan,0 0 50px cyan,
+    0 0 100px cyan, 0 0 200px cyan;  
+}
